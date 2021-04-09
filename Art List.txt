@@ -1,0 +1,73 @@
+Saloon Keeper - Old West Saloon Manager
+
+Art List:
+
+  - Characters
+
+	  -- Saloon Keeper
+	x ---Character Concept
+	x --- Idle
+	x --- Run
+	x --- Refilling
+	x --- Cleaning
+	  --- Shooting
+
+	  -- Costumers
+	x ---Chatacter Concept
+	x ---Walk
+	  ---Shooting
+
+x - Saloon
+ 
+	x -- Tile Set
+	x --- Ground Tiles
+	x --- Wall Tiles
+	x --- Door
+	x --- Window 
+	x --- Saloon Desert BackGround
+
+	x -- Furniture
+	x --- Clean Table
+	x --- Chair
+	
+	x -- Bar
+	x --- Whiskey Dispenser
+	x --- Water Dispenser
+	x --- Beer Dispenser
+	x --- Bar Counter
+	x --- Bar Stool
+
+x - Miscellaneous
+
+	x -- Order
+	x --- Order Bubble
+	x --- Order Whiskey
+	x --- Order Water
+	x --- Order Beer
+
+	x -- Powerups
+	x --- Bell
+	x --- Keg
+	
+	x -- In game drinks
+	x --- Water
+	x --- whiskey
+	x --- Beer	
+
+	x -- Projectiles
+	x --- Bullet
+	x --- Axe
+	x --- Pickaxe
+
+	x -- Character Shadow
+
+
+ - User Interface
+	
+	x -- Butons
+	x -- Slider
+	  -- scroll bar
+	  -- Tick box
+	x -- Small Pannels - Drinks/Powerups
+	  -- Pannels
+	  -- Menu BackGround 
