@@ -2,20 +2,20 @@ Saloon Keeper - Old West Saloon Manager
 
 Art List:
 
-  - Characters
+x - Characters
 
-	  -- Saloon Keeper
+	x -- Saloon Keeper
 	x ---Character Concept
 	x --- Idle
 	x --- Run
 	x --- Refilling
 	x --- Cleaning
-	  --- Shooting
+	x --- Shooting
 
-	  -- Costumers
+	x -- Costumers
 	x ---Chatacter Concept
 	x ---Walk
-	  ---Shooting
+	x ---Shooting
 
 x - Saloon
  
@@ -67,7 +67,7 @@ x - Miscellaneous
 	x -- Butons
 	x -- Slider
 	  -- scroll bar
-	  -- Tick box
+	x -- Tick box
 	x -- Small Pannels - Drinks/Powerups
-	  -- Pannels
+	x -- Pannels
 	  -- Menu BackGround 
